@@ -8,7 +8,7 @@
 
 <img src="https://github.com/michellyaanjos/chellenge-amigo-secreto/blob/main/assets/imagem.png" alt="Exemplo imagem">
 
-Neste desafio, proposto pela Alura em um curso em parceria com a Oracle, desenvolvi uma aplicação que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Neste desafio proposto pela Alura, em um curso em parceria com a Oracle da formação "Iniciante em Programação", desenvolvi uma aplicação que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 > O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
